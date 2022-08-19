@@ -8,7 +8,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="placeholder.jpg">
 
 Hi! My name's Arabella and I'm an undergraduate student studying international relations.
 

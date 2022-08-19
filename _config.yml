@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/home"
+   link: "/home/"
  - name: "Portfolio"
-   link: "/portfolio"
+   link: "portfolio"
  - name: "Contact"
-   link: "/contact"
+   link: "contact"

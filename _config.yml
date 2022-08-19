@@ -1,6 +1,6 @@
 title: Hello world!
 url: "https://arabellaabad.github.io"
-baseurl: ""
+baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/home"
  - name: "Portfolio"
    link: "/portfolio"
  - name: "Contact"

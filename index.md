@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# This page is still under contruction.
+
+---
+
 ## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
@@ -26,7 +30,9 @@ I'm interested in researching nationalism, critical security studies, and terror
 ## Work Experience
 
 #### Reading and Writing Tutor - Tutoring and Academic Support Center (TASC)
-##### August 2022 - Present
+###### August 2022 - Present
+* job responsibility 1
+* job responsibility 2
 
 ---
 

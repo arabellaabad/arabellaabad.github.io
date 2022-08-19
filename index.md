@@ -2,15 +2,11 @@
 layout: default
 ---
 
-# This page is still under construction.
-
----
-
 ## About Me
 
 <img class="profile-picture" src="placeholder.jpg">
 
-Hi! My name's Arabella and I'm an undergraduate student studying international relations.
+I'm an undergraduate student studying international relations. 
 
 ---
 

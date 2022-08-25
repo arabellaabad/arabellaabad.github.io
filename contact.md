@@ -10,7 +10,7 @@ is_contact: true
 
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+You can also reach me at aabadmailbox[at]tutanota[dot]de
 
 ---
 

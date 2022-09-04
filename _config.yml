@@ -1,4 +1,4 @@
-title: Hello world!
+title: Arabella Abad
 url: "https://arabellaabad.github.io"
 baseurl: "/"
 
@@ -16,9 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
+ - name: "About"
+   link: "/"
+ - name: "CV"
    link: "resume.pdf"
  - name: "Portfolio"
    link: "portfolio"
- - name: "Contact"
-   link: "contact"
+ 

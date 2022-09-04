@@ -16,9 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Portfolio"
-   link: "portfolio"
- - name: "Contact"
-   link: "contact"
+ - name: "About"
+   link: "/"
  - name: "CV"
    link: "resume.pdf"
+ - name: "Portfolio"
+   link: "portfolio"
+ 

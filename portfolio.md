@@ -5,9 +5,17 @@ is_portfolio: true
 
 # Portfolio
 
+### Senior hesis
+
+In progress!
+
+---
+
 ### OxCGRT Visualization Project
 
-In progress.
+This project utilized R OxCGRT data to examine and visualize COVID policy trends within Southeast Asia. 
+
+You can find the project page [here](arabellaabad.github.io/oxcgrt-analysis)!
 
 ---
 

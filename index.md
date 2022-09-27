@@ -22,8 +22,8 @@ Year | Conference | Title
 
 ## Awards
 
-1. Critical Language Scholarship (Virtual 2022, Dalian)
+1. **Critical Language Scholarship (Virtual, Dalian)**, *U.S. Department of State*, Summer 2022.
     * Attended 8 weeks of intensive advanced Chinese language classes hosted by Dalian University of Technology
     * Conducted two presentations on sustainable development goals and methods
     * Memorized and recited 春江花月夜 by 張若虛 at student performance exhibition
-2. Steve Postle Memorial Scholarship, New Haven Schools Foundation, $1000. 
+2. **Steve Postle Memorial Scholarship**, *New Haven Schools Foundation*, June 2020. 

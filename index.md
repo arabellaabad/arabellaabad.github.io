@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="placeholder.jpg">
+<img class="profile-picture" src="aabad_bio_photo.png">
 
 Hello world!
 
@@ -27,7 +27,8 @@ Year | Conference | Title
 
 ## Awards
 
-1. [**Critical Language Scholarship (Virtual, Dalian)**](https://clscholarship.org/), *U.S. Department of State*, Summer 2022.
+1. **Benny & May Chin Scholarship in International Relations**, *Kenny and Maria C. Chin Foundation*, Spring 2023. 
+2. [**Critical Language Scholarship (Virtual, Dalian)**](https://clscholarship.org/), *U.S. Department of State*, Summer 2022.
     * Attended 8 weeks of intensive advanced Chinese language classes hosted by Dalian University of Technology
     * Conducted two presentations on sustainable development goals and methods
     * Memorized and recited 春江花月夜 by 張若虛 at student performance exhibition
